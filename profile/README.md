@@ -37,7 +37,7 @@ The project is structured inside this repository in logical folders:
 /bonus/            # optional extra features (if implemented)
 Libft/             # personal libft used by the project
 textures/          # shared textures and media (two planets folders)
-maps/              # example .cub maps (good/ bad)
+maps/              # example .cub maps (sub.cub for mandatory)
 Makefile
 README.md
 ```
@@ -52,7 +52,7 @@ make
 
 Run:
 ```bash
-./cub3D maps/good/m.cub
+./cub3D maps/sub.cub
 ```
 
 ### Build bonus:
